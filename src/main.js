@@ -23,6 +23,6 @@ $(document).ready(function() {
     newJournal = new Journal();
     $("#outputDisplay").text(" ");
     $("#outputDisplay1").text(" ");
-    $("#listOfStuff").hide();
+    $("#listOfStuff").text(" ");
   });
 });
